@@ -1,0 +1,22 @@
+[
+    {
+        "transactionName": "OpenMainPage",
+        "rawStartTime": 1670965577404,
+        "rawEndTime": 1670965577911
+    },
+    {
+        "transactionName": "Login",
+        "rawStartTime": 1670965577926,
+        "rawEndTime": 1670965578880
+    },
+    {
+        "transactionName": "OneTicket",
+        "rawStartTime": 1670965578896,
+        "rawEndTime": 1670965579095
+    },
+    {
+        "transactionName": "Logout",
+        "rawStartTime": 1670965579110,
+        "rawEndTime": 1670965579310
+    }
+]
